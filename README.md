@@ -9,9 +9,7 @@ A notes web application, where you can create and delete notes which are stored 
 ### Build with
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white&link=https://www.php.net/)](#)
-
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&link=https://www.mysql.com/)](#)
-
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&link=https://tailwindcss.com/)](#)
 
 ## Getting started
