@@ -1,0 +1,16 @@
+{
+    "name": "stepan/php-notes",
+    "authors": [
+    {
+        "name": "Stepan Subrt",
+        "email": "stepansubrt@icloud.com"
+    }
+],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
