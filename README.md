@@ -2,7 +2,11 @@
 # Notes App
 A notes web application, where you can create and delete notes which are stored in mysql database.
 
-#### Build with
+![notes](https://github.com/user-attachments/assets/88ba3ca2-11fb-4bd0-9441-c59bacfe24a9)
+![login](https://github.com/user-attachments/assets/a4a91663-cdaf-47a0-9871-ccfac55ff362)
+![register](https://github.com/user-attachments/assets/a7a4f668-06fe-482f-a525-2bc3d9c81fa6)
+![new-note](https://github.com/user-attachments/assets/b31d99b2-a011-4b61-beb3-ec05ba00994b)
+### Build with
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white&link=https://www.php.net/)](#)
 
